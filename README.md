@@ -1,35 +1,42 @@
 # Kaan Gül ☆ 1lolcu1
 
 Hi 👋  
-I’m Kaan Gül, also known as **1lolcu1** — a student **software & game developer** currently studying at **Lefke Avrupa Üniversitesi**.
+I’m Kaan Gül, also known as **1lolcu1** — a student **software & game developer** currently studying at Lefke Avrupa Üniversitesi.
 
-I enjoy building things and learning by doing. Most of what I know comes from working on real projects, experimenting, breaking things, and improving them over time.
+I enjoy building systems, experimenting with code, and learning how things work internally rather than only using them at a surface level.
 
 ---
 
 ## 👨‍💻 What I Do
 
-I actively work across multiple areas of development, including:
+I actively work across multiple areas of development:
 
-- 🎮 **Game server development** (systems, logic, gameplay-focused features)
+- 🎮 **Game server development**
 - 🧩 **Game development with Unity**
 - 💻 **Software development using C#**
 
-Alongside these, I also have hands-on experience with:
+I also have experience with:
 - 🌐 **Web development** (HTML, CSS, JavaScript)
 - 🎞️ **After Effects** (visuals, motion, creative work)
 - ⚙️ **C programming** (academic background)
 
-I like combining technical systems with visual and interactive elements.
-
 ---
 
-## 🧠 Learning & Mindset
+## 🧠 Reverse Engineering & Experimentation
 
-I’m currently in a **learning phase**, but I take my work seriously.  
-I enjoy experimenting with systems, understanding how things work under the hood, and improving my skills through real-world projects.
+Part of my learning process involves **reverse engineering Unity-based games** to better understand how real-world systems are built and interact.
 
-I’m also interested in **project-based and startup-oriented development**, where ideas turn into actual products instead of staying on paper.
+I’ve experimented with:
+- Analyzing Unity games at runtime
+- Inspecting game logic, input handling, and state systems
+- Writing **experimental cheats, mods, and debug tools** for learning purposes
+- Understanding the differences between **client-side** and **server-side** logic
+- Exploring how protections, limitations, and mechanics are implemented
+
+These experiments are done strictly for **educational, technical, and research purposes**, helping me gain deeper insight into:
+- Game architecture
+- Engine behavior
+- System-level problem solving
 
 ---
 
@@ -37,20 +44,20 @@ I’m also interested in **project-based and startup-oriented development**, whe
 
 Not everything I work on is public.
 
-- ✅ Public repositories showcase selected work, experiments, and frontend projects  
-- 🔒 Private repositories contain ongoing, experimental, or long-term projects  
+- ✅ Public repositories include selected projects, frontend work, and experiments  
+- 🔒 Private repositories contain ongoing development, internal tools, and deeper system-level research  
 
-If something is private, it’s usually because it’s still evolving or planned for future use.
+Some work remains private due to its experimental nature or future plans.
 
 ---
 
-## 🧩 Frontend vs Backend
+## 🧩 Focus Areas
 
-Most of my public work currently focuses on:
+Most of my public work focuses on:
 - **Frontend development**
 - UI/UX, animations, and interactive systems
 
-Backend and server-side work exists in private projects and ongoing experiments.
+More advanced system analysis, reverse engineering, and tooling are typically kept private.
 
 ---
 
@@ -58,15 +65,15 @@ Backend and server-side work exists in private projects and ongoing experiments.
 
 I build projects because:
 - I genuinely enjoy it
-- I learn faster by doing
-- I like solving problems
-- I care about how things feel, not just how they work
+- I learn best by experimenting
+- I like understanding how systems work under the hood
+- I enjoy pushing beyond tutorials and templates
 
 ---
 
 ## 📫 Final Note
 
-This profile is a collection of my public work and learning journey.  
-Some things are polished, some are experimental — all of them represent growth.
+This profile represents my public work and learning journey.  
+Some projects are polished, some are experimental — all of them reflect growth and curiosity.
 
 Thanks for stopping by ⭐
