@@ -1,4 +1,4 @@
-# Kaan Gül ☆ 1lolcu1
+# Kaan Gül ☆ Kynxhel
 
 Hi 👋  
 I’m Kaan Gül, also known as **1lolcu1** — a student **software & game developer** currently studying at Lefke Avrupa Üniversitesi.
